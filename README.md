@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**safonovaolga/safonovaolga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Навыки
+- Питон
+- Библиотеки в Питоне: numpy, pandas, sklearn
+- Библиотеки для визуализации: matplotlib, seaborn
+- Jupyter notebook
 
-Here are some ideas to get you started:
+## LLM Агенты 
+- Gemini API / Gemma API
+- Qwen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Промпт-инжиниринг
+- Zero-shot, One-shot, Few-shot
+- Chain of Thoughts
+- Formating Response
+- Role Assignment
+- Function Calls
+
+## RAG
